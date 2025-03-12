@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <title>
+         This is my Remote html File
+     </title>
+ </head>
+ <body>
+     <p>This is my First Remote html File</p>
+     <h1>And Your Editing it in GitHub</h1>
+ </body>
+ </html>
